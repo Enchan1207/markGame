@@ -29,6 +29,7 @@ Run `gcc *.c` or `clang *.c` to compile.
 In default definition, the field size is set 5x5.
 To change this, change the `WIDTH` definition in `field.h`.
 (CPU engine is developed as play with 5x5 field, so If you change field size too large, the engine will be poor.)
+In Recent version, you can't input value over 2 digit.
 
 ## License
 This software is released under the MIT License, see LICENSE.
