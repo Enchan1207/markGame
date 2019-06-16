@@ -1,5 +1,4 @@
 # markGame
-===
 
 ##OverView
 variable-sized Gomoku game.
