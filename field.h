@@ -1,0 +1,2 @@
+#define WIDTH 32
+#define SIZE WIDTH*WIDTH
