@@ -3,7 +3,7 @@
 ## OverView
 variable-sized Gomoku game.
 
-## Dependency
+## Development Environment
  * Language: C
  * Compiler: clang 4.2.1
 
