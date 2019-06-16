@@ -5,7 +5,7 @@ variable-sized Gomoku game.
 
 ## Dependency
  * Language: C
- * Complier: clang 4.2.1
+ * Compiler: clang 4.2.1
 
 ## Contents
  * main.c: game loop
